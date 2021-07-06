@@ -170,7 +170,7 @@ body{
     padding-bottom: 160px;
 }
 
-.social-info {
+.social-info{
     margin: 0 100px;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
     border-radius: 15px;
@@ -180,7 +180,7 @@ body{
     margin-bottom: 100px;
 
   }
-  .social-item {
+  .social-item{
     display: block;
     margin: 0 auto;
     font-weight: 700;
