@@ -90,7 +90,7 @@ body{
     width: 100%;
     background-color: rgb(245, 224, 217);
     box-shadow: 10px 0px 40px rgb(83 32 32 / 20%);
-    height: 700px;
+    height: 650px;
     text-align: justify; 
 }
 
@@ -200,15 +200,16 @@ footer h2 {
     font-size: 40px;
 }
   
-.custom-review{
-      background-image: url(images/shapes/Frame\ 59.jpg);    
+#custom-review{
+      
+      background-image: url(/1.jpg);   
   }
 
-.custom-review .color{
+#custom-review .color{
       color: rgb(160, 19, 136);
 }
 
-.custom-review .color2{
+#custom-review .color2{
     color: rgb(211, 103, 178);
 }
 
