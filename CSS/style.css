@@ -68,7 +68,7 @@ body{
 .about-me h2{
     color: #707070;
     font-size: 50px;
-    margin-top: 140px;
+    margin-top: 100px;
     margin-bottom: 60px;
 }
 
@@ -80,7 +80,7 @@ body{
 }
 
 .cont-custom p{
-    margin-bottom: 70px;
+    margin-bottom: 55px;
     line-height: 35px;
 }
 
@@ -123,7 +123,7 @@ body{
     padding: 5px;  
 }
 
- .recipe-var h2{
+.recipe-var h2{
     text-align: left;
     margin-left: 60px;
     font-weight: 900;
@@ -131,7 +131,7 @@ body{
  }
 
  .recipe-var .color2{
-     color: #b98c10;
+    color: #b98c10;
  }
 
  .recipe-var p{
@@ -202,8 +202,8 @@ footer h2 {
 }
   
 #custom-review{
-      background-image: url(/images/shapes/1.jpg);  
- } /*#bg-image doesn't work on the live server. */
+    background-image: url(/images/shapes/1.jpg);  
+ } /*#bg-image doesn't work on the live server. I also applied in the html body*/
 
 
 #custom-review .color{
@@ -215,8 +215,8 @@ footer h2 {
 }
 
 .rev-display{
-      display: flex;
-      text-align: justify;
+    display: flex;
+    text-align: justify;
 }
 
 .review-id img{
@@ -231,8 +231,8 @@ footer h2 {
 }
 
 .review-food{    
-      background-repeat: no-repeat;
-      width: auto;
+    background-repeat: no-repeat;
+    width: auto;
 }
   
 .contact {
@@ -255,7 +255,7 @@ footer h2 {
   }
 
 .shape-rating{
-      padding-top: 35px;
+    padding-top: 35px;
   }
 
 .inline-icon:hover {
