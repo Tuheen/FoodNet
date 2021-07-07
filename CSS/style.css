@@ -62,7 +62,7 @@ body{
 
 .img-custom img{
     width: 85%;
-    padding-top: 55px
+    height: 100%;
 }
 
 .about-me h2{
@@ -73,8 +73,10 @@ body{
 }
 
 .cont-custom{
-    width: 25%;
+    width: 30%;
     font-size: 20px;
+    margin-top: -30px;
+    padding-right: 90px;
 }
 
 .cont-custom p{
@@ -90,7 +92,6 @@ body{
     width: 100%;
     background-color: rgb(245, 224, 217);
     box-shadow: 10px 0px 40px rgb(83 32 32 / 20%);
-    height: 650px;
     text-align: justify; 
 }
 
@@ -200,10 +201,9 @@ footer h2 {
     font-size: 40px;
 }
   
-#custom-review{
-      
-      background-image: url(/1.jpg);   
-  }
+/*#custom-review{
+      background-image: url(/images/shapes/1.jpg);   #doesn't work this way. 
+  } */
 
 #custom-review .color{
       color: rgb(160, 19, 136);
