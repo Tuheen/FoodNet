@@ -157,7 +157,7 @@ body{
 }
 
 .recipe-mid p {
-    padding-left: 610px;
+    padding-left: 530px;
     color: #252525;
     font-size: 20px;
     width: 45%;       
@@ -201,9 +201,10 @@ footer h2 {
     font-size: 40px;
 }
   
-/*#custom-review{
-      background-image: url(/images/shapes/1.jpg);   #doesn't work this way. 
-  } */
+#custom-review{
+      background-image: url(/images/shapes/1.jpg);  
+ } /*#bg-image doesn't work on the live server. */
+
 
 #custom-review .color{
       color: rgb(160, 19, 136);
